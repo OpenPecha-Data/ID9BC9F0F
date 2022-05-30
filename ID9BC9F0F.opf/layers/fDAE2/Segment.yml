@@ -1,0 +1,79 @@
+id: e7564951b39e4a4799e9f06f7ae8469f
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c54ea71a052342eb9e24d3e21f2673b1:
+    span:
+      start: 0
+      end: 61
+    metadata: {}
+  6c6f2b88bf4a4539b44124326dc14149:
+    span:
+      start: 63
+      end: 95
+    metadata: {}
+  c126cd90bbce48c6a65b7fbb6ec5c32c:
+    span:
+      start: 97
+      end: 173
+    metadata: {}
+  8759dde70481497cb5ac37a9ea5ccfd6:
+    span:
+      start: 175
+      end: 580
+    metadata: {}
+  c7e635c3dbf7468793a1964fa9063d86:
+    span:
+      start: 582
+      end: 1060
+    metadata: {}
+  24227d48d7024a0bb1ccafd8c838b6f7:
+    span:
+      start: 1062
+      end: 1677
+    metadata: {}
+  9a7100c93e8e491da76ddb47d917e4c9:
+    span:
+      start: 1679
+      end: 2353
+    metadata: {}
+  f5bfa5fce0894cf6bf374eeaee2ad30b:
+    span:
+      start: 2355
+      end: 2867
+    metadata: {}
+  6463f623858b459787631778f5a008d4:
+    span:
+      start: 2869
+      end: 3460
+    metadata: {}
+  4b0b01d158014429b5652455fa03d692:
+    span:
+      start: 3462
+      end: 4308
+    metadata: {}
+  7cdd35795dea4e69b1abb30d7e5bc1b1:
+    span:
+      start: 4310
+      end: 4989
+    metadata: {}
+  139ae58952884974b43a8a58aeac2576:
+    span:
+      start: 4991
+      end: 5631
+    metadata: {}
+  6444c865e0664e20acf67d8551ea89ee:
+    span:
+      start: 5633
+      end: 6395
+    metadata: {}
+  0fc39af074c84616a7b18642388694d6:
+    span:
+      start: 6397
+      end: 6529
+    metadata: {}
+  778fe9bd7ec547268dba9397714b7cfc:
+    span:
+      start: 6531
+      end: 6643
+    metadata: {}

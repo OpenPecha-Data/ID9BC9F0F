@@ -1,0 +1,1845 @@
+id: ID9BC9F0F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T21:34:22.652170'
+last_modified: '2022-05-30T21:34:22.652183'
+parser: null
+source_metadata:
+  title: Jamyang Khyentse Chökyi Lodrö Series
+  language: en
+  description: 'Texts by and about the renowned non-sectarian master Jamyang Khyentse
+    Chökyi Lodrö (''jam dbyangs mkhyen brtse chos kyi blo gros, 1893–1959) of Dzongsar:'
+  volume:
+    fAA2A:
+      title: A Blissful Path to Awakening
+      base_file: fAA2A.txt
+      order: 1
+      parent: Advice
+    f89EC:
+      title: A Plea to Those who Present ‘Red Offerings’ to Worldly Deities
+      base_file: f89EC.txt
+      order: 2
+      parent: Advice
+    fBFCC:
+      title: A Sun to Banish the Darkness of Wrong Views
+      base_file: fBFCC.txt
+      order: 3
+      parent: Advice
+    f3A36:
+      title: Advice for Garje Khamtrul Rinpoche
+      base_file: f3A36.txt
+      order: 4
+      parent: Advice
+    f3A37:
+      title: Advice for Jamyang Losal Zangpo
+      base_file: f3A37.txt
+      order: 5
+      parent: Advice
+    f58A7:
+      title: Advice for Karma Chöchok
+      base_file: f58A7.txt
+      order: 6
+      parent: Advice
+    fEF6F:
+      title: Advice for Khen Rinpoche Jamyang Losal
+      base_file: fEF6F.txt
+      order: 7
+      parent: Advice
+    f1819:
+      title: Advice for Lakar Ane Kalchö
+      base_file: f1819.txt
+      order: 8
+      parent: Advice
+    f1DD6:
+      title: Advice for Nubla Kunzang Chöpel
+      base_file: f1DD6.txt
+      order: 9
+      parent: Advice
+    f3148:
+      title: Advice for Palpung Situ Rinpoche
+      base_file: f3148.txt
+      order: 10
+      parent: Advice
+    f5CBD:
+      title: Advice for Pema Rangdrol
+      base_file: f5CBD.txt
+      order: 11
+      parent: Advice
+    f021B:
+      title: Advice for Zhichen Gyalsé Kunnyi
+      base_file: f021B.txt
+      order: 12
+      parent: Advice
+    f4757:
+      title: Advice for a Sincere Disciple
+      base_file: f4757.txt
+      order: 13
+      parent: Advice
+    f4DD5:
+      title: Advice for the Disciple Osam
+      base_file: f4DD5.txt
+      order: 14
+      parent: Advice
+    fDE20:
+      title: Advice in Brief
+      base_file: fDE20.txt
+      order: 15
+      parent: Advice
+    f14F4:
+      title: Advice on Recognizing the Nature of Mind
+      base_file: f14F4.txt
+      order: 16
+      parent: Advice
+    f74ED:
+      title: Advice to Myself
+      base_file: f74ED.txt
+      order: 17
+      parent: Advice
+    fD799:
+      title: 'Advice: Emptying the Three Realms of Existence'
+      base_file: fD799.txt
+      order: 18
+      parent: Advice
+    f2450:
+      title: 'Beautiful String of Jewels: A Heart Advice'
+      base_file: f2450.txt
+      order: 19
+      parent: Advice
+    f8CE1:
+      title: Direct Instruction
+      base_file: f8CE1.txt
+      order: 20
+      parent: Advice
+    fD4D8:
+      title: Drops of Nectarous Advice
+      base_file: fD4D8.txt
+      order: 21
+      parent: Advice
+    f733B:
+      title: Encouragement to Make the Most of the Freedoms and Advantages
+      base_file: f733B.txt
+      order: 22
+      parent: Advice
+    fAFB7:
+      title: Four-Point Advice
+      base_file: fAFB7.txt
+      order: 23
+      parent: Advice
+    f4678:
+      title: Heart Advice in a Nutshell
+      base_file: f4678.txt
+      order: 24
+      parent: Advice
+    fC24A:
+      title: Khandro's Plea
+      base_file: fC24A.txt
+      order: 25
+      parent: Advice
+    f7745:
+      title: Necessary Advice
+      base_file: f7745.txt
+      order: 26
+      parent: Advice
+    f72D3:
+      title: On the Importance of Avoiding Criticism of the Guru
+      base_file: f72D3.txt
+      order: 27
+      parent: Advice
+    fC414:
+      title: 'Opening the Door of Dharma: A Brief Discourse on the Essence of All
+        Vehicles'
+      base_file: fC414.txt
+      order: 28
+      parent: Advice
+    f281D:
+      title: 'Sweet Nectar of the Supreme Vehicle: A Synopsis of the Stages of the
+        Mahāyāna Path'
+      base_file: f281D.txt
+      order: 29
+      parent: Advice
+    fCD7A:
+      title: 'The Blissful Path to Awakening: A Song on the Essence of Definitive
+        Meaning'
+      base_file: fCD7A.txt
+      order: 30
+      parent: Advice
+    f15E5:
+      title: The Excellent Vase of Ambrosial Advice
+      base_file: f15E5.txt
+      order: 31
+      parent: Advice
+    f5289:
+      title: The String of Pearls Advice
+      base_file: f5289.txt
+      order: 32
+      parent: Advice
+    f3992:
+      title: The Universal Medicine for Healing All Ills
+      base_file: f3992.txt
+      order: 33
+      parent: Advice
+    fB9EE:
+      title: Brief Amitābha Sleeping Practice
+      base_file: fB9EE.txt
+      order: 34
+      parent: Amitābha
+    f2B25:
+      title: Description of a Kadam Thangka
+      base_file: f2B25.txt
+      order: 35
+      parent: Arts & Crafts
+    f44FA:
+      title: On the Proportions of Stūpas and Suchlike
+      base_file: f44FA.txt
+      order: 36
+      parent: Arts & Crafts
+    f0F8E:
+      title: A Brief Method for Reciting Samantabhadra's Prayer of Good Actions
+      base_file: f0F8E.txt
+      order: 37
+      parent: Aspiration Prayers
+    fDCAF:
+      title: 'All-Pervading Auspiciousness: An Aspiration for the Spread of the Teachings
+        of the Eight Great Chariots of the Practice Lineage'
+      base_file: fDCAF.txt
+      order: 38
+      parent: Aspiration Prayers
+    fAF11:
+      title: Aspiration Written in Sadness During the Water Snake Year
+      base_file: fAF11.txt
+      order: 39
+      parent: Aspiration Prayers
+    fA42A:
+      title: Aspiration Written on the Occasion of Princess Sangdé’s Passing in Sikkim
+      base_file: fA42A.txt
+      order: 40
+      parent: Aspiration Prayers
+    f83B5:
+      title: Aspiration for Rebirth in Sukhāvatī
+      base_file: f83B5.txt
+      order: 41
+      parent: Aspiration Prayers
+    fBB4B:
+      title: Aspiration for the Land of Great Bliss
+      base_file: fBB4B.txt
+      order: 42
+      parent: Aspiration Prayers
+    fC111:
+      title: Aspiration for the Spread of the Guhyagarbha Teachings
+      base_file: fC111.txt
+      order: 43
+      parent: Aspiration Prayers
+    f815B:
+      title: Aspiration for the Spread of the Teachings
+      base_file: f815B.txt
+      order: 44
+      parent: Aspiration Prayers
+    f8989:
+      title: Aspiration to Accomplish Every Aim
+      base_file: f8989.txt
+      order: 45
+      parent: Aspiration Prayers
+    f1314:
+      title: Aspiration to Be Reborn at the Vajra Seat (Bodhgayā), Akaniṣṭha on Earth
+      base_file: f1314.txt
+      order: 46
+      parent: Aspiration Prayers
+    f2FD6:
+      title: Aspiration to Follow the Gurus of the Ngor Tradition
+      base_file: f2FD6.txt
+      order: 47
+      parent: Aspiration Prayers
+    f6EEB:
+      title: 'Blazing Splendour of Good Fortune: A Prayer for the Spread of the Teachings
+        of the Katok Tradition'
+      base_file: f6EEB.txt
+      order: 48
+      parent: Aspiration Prayers
+    fD034:
+      title: 'Burgeoning Joy and Happiness: An Aspiration for the Welfare of the Great
+        Hidden Land of Sikkim'
+      base_file: fD034.txt
+      order: 49
+      parent: Aspiration Prayers
+    fD160:
+      title: 'Clouds to Delight Amitābha, Melody of the Realm of Great Bliss: Aspiration
+        and Auspicious Verses for the Spread of the Teachings of the Lake-Born Vajra
+        of Oḍḍiyāna, Second Teacher of this World'
+      base_file: fD160.txt
+      order: 50
+      parent: Aspiration Prayers
+    f9667:
+      title: 'Declaration of the Power of Truth: A Prayer to Overcome Invading Forces'
+      base_file: f9667.txt
+      order: 51
+      parent: Aspiration Prayers
+    f5799:
+      title: 'Fostering Recollection to Dispel the Torment of Deluded Perception:
+        An Aspiration for the Bardos'
+      base_file: f5799.txt
+      order: 52
+      parent: Aspiration Prayers
+    f33FB:
+      title: 'Music to Delight the Victorious Ones and Their Heirs: A Mahāyāna Aspiration'
+      base_file: f33FB.txt
+      order: 53
+      parent: Aspiration Prayers
+    fDEFE:
+      title: 'Opening the Door to Great Bliss: An Aspiration Towards the Realm of
+        Abhirati'
+      base_file: fDEFE.txt
+      order: 54
+      parent: Aspiration Prayers
+    f49CD:
+      title: Prayer of Aspiration
+      base_file: f49CD.txt
+      order: 55
+      parent: Aspiration Prayers
+    f0061:
+      title: 'The Finest Jewel: An Aspiration Prayer of Mahāyāna Mind Training'
+      base_file: f0061.txt
+      order: 56
+      parent: Aspiration Prayers
+    f8F5C:
+      title: 'The Fulfilment of All Aims and Wishes: An Aspiration to Request the
+        Safeguarding of Happiness in Tibet'
+      base_file: f8F5C.txt
+      order: 57
+      parent: Aspiration Prayers
+    fF413:
+      title: 'The Jewelled Rosary: An Aspiration Toward Longed-for Aims'
+      base_file: fF413.txt
+      order: 58
+      parent: Aspiration Prayers
+    f7A57:
+      title: 'The Sage''s Powerful Words of Truth: A Prayer for the Spread of the
+        Omniscient Buddha''s Teachings'
+      base_file: f7A57.txt
+      order: 59
+      parent: Aspiration Prayers
+    fD1E3:
+      title: 'The Swift Fulfilment of Wishes: A Prayer of Aspiration'
+      base_file: fD1E3.txt
+      order: 60
+      parent: Aspiration Prayers
+    fAF4F:
+      title: 'Words to Delight the Lake-Born One: A Prayer for the Spread of the Vajrayāna
+        Teachings of the Ancient Translations'
+      base_file: fAF4F.txt
+      order: 61
+      parent: Aspiration Prayers
+    f33CB:
+      title: Verses of Auspiciousness
+      base_file: f33CB.txt
+      order: 62
+      parent: Auspiciousness
+    fCE0B:
+      title: Verses of Auspiciousness
+      base_file: fCE0B.txt
+      order: 63
+      parent: Auspiciousness
+    f4C2A:
+      title: 'Virtuous Adornment for All the World: Verses to Bring Auspiciousness
+        and Wellbeing'
+      base_file: f4C2A.txt
+      order: 64
+      parent: Auspiciousness
+    fD844:
+      title: Drodung Monastery Guidelines
+      base_file: fD844.txt
+      order: 65
+      parent: Behavioural Guidelines
+    f32C3:
+      title: 'The Pellucid Mirror: Behavioural Guidelines for the Saṅgha'
+      base_file: f32C3.txt
+      order: 66
+      parent: Behavioural Guidelines
+    f4E5D:
+      title: 'The Seed of Benefit and Happiness: Behavioural Guidelines'
+      base_file: f4E5D.txt
+      order: 67
+      parent: Behavioural Guidelines
+    f0F4F:
+      title: Benedictory Verses for A Brilliant Elucidation of Logical Reasoning
+      base_file: f0F4F.txt
+      order: 68
+      parent: Benedictory Verses
+    f8D83:
+      title: Benedictory Verses for Shower of Blessings Guru Yoga
+      base_file: f8D83.txt
+      order: 69
+      parent: Benedictory Verses
+    fBCB4:
+      title: 'Benedictory Verses for The Clarifying Light: A Prophecy of the Future'
+      base_file: fBCB4.txt
+      order: 70
+      parent: Benedictory Verses
+    f4BFE:
+      title: Benedictory Verses for White Lotus
+      base_file: f4BFE.txt
+      order: 71
+      parent: Benedictory Verses
+    f66A9:
+      title: A Short Story of the Life and Liberation of Jamyang Khyentse Chökyi Lodrö
+      base_file: f66A9.txt
+      order: 72
+      parent: Biographies
+    f233E:
+      title: Brief Biography of Gyurme Jamyang Tenpel from Supplementary Biographies
+        for the Lineage of the Ḍākinī’s Whispered Transmission of Secret Conduct
+      base_file: f233E.txt
+      order: 73
+      parent: Biographies
+    f1334:
+      title: Notes on Chögyal Puntsok Rigdzin and Lhatsün Namkha Jigme’s Incarnations
+      base_file: f1334.txt
+      order: 74
+      parent: Biographies
+    f6A74:
+      title: The Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f6A74.txt
+      order: 75
+      parent: Biographies
+    fDA52:
+      title: 'The Play of Illusion: An Autobiography'
+      base_file: fDA52.txt
+      order: 76
+      parent: Biographies
+    fE7BE:
+      title: Conveying the Essence of the Middle Way of Consequence
+      base_file: fE7BE.txt
+      order: 77
+      parent: Buddhist Philosophy
+    f84A5:
+      title: 'The Words of Candra: The Definitive Secret of the Great Middle Way of
+        Consequence Beyond Extremes, the Fundamental Intent of All the Tathāgatas'
+      base_file: f84A5.txt
+      order: 78
+      parent: Buddhist Philosophy
+    fB007:
+      title: 'An Envoy for Swiftly Invoking the Blessings of Definitive Meaning: Calling
+        the Great Omniscient Jonangpa from Afar'
+      base_file: fB007.txt
+      order: 79
+      parent: Calling the Guru from Afar
+    fA964:
+      title: 'Calling the Guru from Afar: A Prayer to Jigme Lingpa'
+      base_file: fA964.txt
+      order: 80
+      parent: Calling the Guru from Afar
+    f5BA6:
+      title: 'Dispelling the Anguish of Existence and Quiescence: A Prayer of Calling
+        the Guru from Afar'
+      base_file: f5BA6.txt
+      order: 81
+      parent: Calling the Guru from Afar
+    fE275:
+      title: Prayer and Call from Afar to the Great Omniscient One
+      base_file: fE275.txt
+      order: 82
+      parent: Calling the Guru from Afar
+    fFFF9:
+      title: 'The Hook of Compassion: Calling the Guru from Afar'
+      base_file: fFFF9.txt
+      order: 83
+      parent: Calling the Guru from Afar
+    f449B:
+      title: 'Repository of Every Form of Dharma That Might Be Wished For: A Catalogue
+        to the Published Miscellaneous Writings of the Venerable Guru Jamyang Chökyi
+        Lodrö'
+      base_file: f449B.txt
+      order: 84
+      parent: Catalogues
+    fDAE2:
+      title: On Jetsün Drakpa Gyaltsen’s How to Take the Practice to Heart
+      base_file: fDAE2.txt
+      order: 85
+      parent: Commentaries
+    f236D:
+      title: 'The Sweet Ambrosia of Immortality: Concise Instructions on the Generation
+        and Completion Phases of the Single-Form Daily Practice of the Heart Essence
+        of the Sublime Lady of Immortality'
+      base_file: f236D.txt
+      order: 86
+      parent: Commentaries
+    fA66A:
+      title: 'The Vajra Words Unveiled: A Commentary on the Düsum Sangyé Prayer to
+        the Guru'
+      base_file: fA66A.txt
+      order: 87
+      parent: Commentaries
+    fB1B6:
+      title: Expeditious Activity Torma Offering
+      base_file: fB1B6.txt
+      order: 88
+      parent: Dharma Protectors
+    f8D34:
+      title: 'Swift Enlightened Activity: A Concise Ceremony of Offering and Prayer
+        to Mahākāla and Consort'
+      base_file: f8D34.txt
+      order: 89
+      parent: Dharma Protectors
+    f0AF9:
+      title: 'The Fulfilment of All Wishes: Prayer and Entrustment of Activity to
+        the Glorious Guru Mahākāla Pañjaranātha'
+      base_file: f0AF9.txt
+      order: 90
+      parent: Dharma Protectors
+    f7555:
+      title: Wayfaring Offering
+      base_file: f7555.txt
+      order: 91
+      parent: Dharma Protectors
+    f02A1:
+      title: Yarlha Shampo Sang Offering
+      base_file: f02A1.txt
+      order: 92
+      parent: Dharma Protectors
+    f68B6:
+      title: An Instruction on the Great Perfection
+      base_file: f68B6.txt
+      order: 93
+      parent: Dzogchen
+    f5B92:
+      title: Brief Dzogchen Instruction
+      base_file: f5B92.txt
+      order: 94
+      parent: Dzogchen
+    f2556:
+      title: Summary of the Key Points of Advice on Trekchö
+      base_file: f2556.txt
+      order: 95
+      parent: Dzogchen
+    f83D2:
+      title: 'The Precious Jewelled Key: A Synopsis of the Aspiration of the Great
+        Perfection Mañjuśrī'
+      base_file: f83D2.txt
+      order: 96
+      parent: Dzogchen
+    f4785:
+      title: Concerning Offering Rites to the Great Lion Gesar
+      base_file: f4785.txt
+      order: 97
+      parent: Gesar
+    fF34F:
+      title: Petitionary Offering to Norbu Dradül Tsal
+      base_file: fF34F.txt
+      order: 98
+      parent: Gesar
+    f58B5:
+      title: A Heart Prayer to Orgyen Dorje Chang
+      base_file: f58B5.txt
+      order: 99
+      parent: Guru Rinpoche Prayers
+    f28A5:
+      title: A Prayer of Aspiration for the Mountain of Glory
+      base_file: f28A5.txt
+      order: 100
+      parent: Guru Rinpoche Prayers
+    f0DCE:
+      title: A Prayer to Orgyen Dorje Chang
+      base_file: f0DCE.txt
+      order: 101
+      parent: Guru Rinpoche Prayers
+    f0768:
+      title: A Yearning Plea to the Precious Guru
+      base_file: f0768.txt
+      order: 102
+      parent: Guru Rinpoche Prayers
+    f419A:
+      title: 'Cloud Banks of Blessings: A Prayer to Orgyen Rinpoche'
+      base_file: f419A.txt
+      order: 103
+      parent: Guru Rinpoche Prayers
+    fAE87:
+      title: Prayer of the Wisdom Mind
+      base_file: fAE87.txt
+      order: 104
+      parent: Guru Rinpoche Prayers
+    fBBED:
+      title: Spontaneous Fulfilment of Wishes
+      base_file: fBBED.txt
+      order: 105
+      parent: Guru Rinpoche Prayers
+    f9D65:
+      title: The Falling Elixir of Blessing
+      base_file: f9D65.txt
+      order: 106
+      parent: Guru Rinpoche Prayers
+    fE286:
+      title: 'The Supreme Bestowal of Twofold Attainment: A Prayer to Orgyen Rinpoche,
+        Embodiment of All Sources of Refuge'
+      base_file: fE286.txt
+      order: 107
+      parent: Guru Rinpoche Prayers
+    f45AB:
+      title: 'The Swift Fulfilment of Aspirations: A Prayer to Glorious Orgyen, King
+        of Dharma'
+      base_file: f45AB.txt
+      order: 108
+      parent: Guru Rinpoche Prayers
+    f49B9:
+      title: To Fulfil All Wishes
+      base_file: f49B9.txt
+      order: 109
+      parent: Guru Rinpoche Prayers
+    f48B6:
+      title: Turning Back the Misfortunes of the Age of Degeneration
+      base_file: f48B6.txt
+      order: 110
+      parent: Guru Rinpoche Prayers
+    f57BD:
+      title: A Guru Yoga of Śavari
+      base_file: f57BD.txt
+      order: 111
+      parent: Guru Yoga
+    f869C:
+      title: 'Bestower of Supreme Blessings: Guru Yoga of the Great Incomparable Lord
+        Atiśa'
+      base_file: f869C.txt
+      order: 112
+      parent: Guru Yoga
+    fE820:
+      title: 'Drop of Wisdom Nectar: A Guru Yoga'
+      base_file: fE820.txt
+      order: 113
+      parent: Guru Yoga
+    fEAF5:
+      title: Guru Padma Yoga
+      base_file: fEAF5.txt
+      order: 114
+      parent: Guru Yoga
+    f6A66:
+      title: Guru Sādhana of Garab Dorje
+      base_file: f6A66.txt
+      order: 115
+      parent: Guru Yoga
+    f9FE1:
+      title: Guru Sādhana of Glorious Dharmakīrti
+      base_file: f9FE1.txt
+      order: 116
+      parent: Guru Yoga
+    fCD62:
+      title: Guru Sādhana of the Omniscient Dolpopa
+      base_file: fCD62.txt
+      order: 117
+      parent: Guru Yoga
+    f5958:
+      title: Guru Yoga of Jetsün Lochen, Queen of Yoginīs
+      base_file: f5958.txt
+      order: 118
+      parent: Guru Yoga
+    fE721:
+      title: Guru Yoga of Jetsün Shepa Dorje
+      base_file: fE721.txt
+      order: 119
+      parent: Guru Yoga
+    f7F62:
+      title: Guru Yoga of Lord Marpa Lotsāwa
+      base_file: f7F62.txt
+      order: 120
+      parent: Guru Yoga
+    f19D4:
+      title: Guru Yoga of the Great Learned and Accomplished Ācārya Haribhadra
+      base_file: f19D4.txt
+      order: 121
+      parent: Guru Yoga
+    fDD3A:
+      title: Guru Yoga of the Great Tertön Pema Lingpa
+      base_file: fDD3A.txt
+      order: 122
+      parent: Guru Yoga
+    f42D6:
+      title: Guru Yoga of the Guru Mahāmuni
+      base_file: f42D6.txt
+      order: 123
+      parent: Guru Yoga
+    fFB93:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      base_file: fFB93.txt
+      order: 124
+      parent: Guru Yoga
+    f7784:
+      title: 'Self-Arising Wisdom: Songtsen Gampo Guru Sādhana'
+      base_file: f7784.txt
+      order: 125
+      parent: Guru Yoga
+    fE63F:
+      title: Short Guru Yoga of the Noble Lord, All-Knowing Tsongkhapa
+      base_file: fE63F.txt
+      order: 126
+      parent: Guru Yoga
+    fCD29:
+      title: 'The Bright Lamp of Wisdom: A Guide to the Practice of Guru Yoga (Yeshe
+        Saldrön)'
+      base_file: fCD29.txt
+      order: 127
+      parent: Guru Yoga
+    f322E:
+      title: 'The Bright Lamp of the Heart Essence (Nyingtik Saldrön): A Guru Yoga'
+      base_file: f322E.txt
+      order: 128
+      parent: Guru Yoga
+    fAAAB:
+      title: 'The Gathering of Blessings: A Guru Yoga'
+      base_file: fAAAB.txt
+      order: 129
+      parent: Guru Yoga
+    fFE66:
+      title: 'The Merry Sea of Blessings: A Guru Yoga of the Lord of Sages, Peerless
+        Teacher of All, Including the Devas'
+      base_file: fFE66.txt
+      order: 130
+      parent: Guru Yoga
+    fDDD4:
+      title: 'The Radiant Treasure of Blessings: A Guru Yoga of the Great Vajradhara
+        Ngawang Samten Lodrö'
+      base_file: fDDD4.txt
+      order: 131
+      parent: Guru Yoga
+    f4743:
+      title: 'The Swift Infusion of Blessings: A Prayer and Aspiration for the Stages
+        of the Path Combined with Guru Yoga'
+      base_file: f4743.txt
+      order: 132
+      parent: Guru Yoga
+    f3E8C:
+      title: The Unifying Practice of the Prayer
+      base_file: f3E8C.txt
+      order: 133
+      parent: Guru Yoga
+    f3641:
+      title: Genealogy of the Dharma Kings of Derge
+      base_file: f3641.txt
+      order: 134
+      parent: History
+    f5C3D:
+      title: How Our Supreme Teacher Generated Bodhicitta and Other Topics
+      base_file: f5C3D.txt
+      order: 135
+      parent: History
+    f9A09:
+      title: Royal Genealogy of Sikkim
+      base_file: f9A09.txt
+      order: 136
+      parent: History
+    f5DB5:
+      title: A Letter to the Fourteenth Dalai Lama, Supreme Victorious Guru of the
+        Beings of the Three Realms
+      base_file: f5DB5.txt
+      order: 137
+      parent: Letters
+    f4C15:
+      title: Concerning Nezhi Tertön Rigdzin Chökyi Döndrup
+      base_file: f4C15.txt
+      order: 138
+      parent: Letters
+    fB63B:
+      title: Letter to Gyarong Khandro
+      base_file: fB63B.txt
+      order: 139
+      parent: Letters
+    fE882:
+      title: Notice on Behalf of Sejo Monastery in Dzakhok
+      base_file: fE882.txt
+      order: 140
+      parent: Letters
+    f8DCA:
+      title: Prayer to the Lineage of the Great Chetsün’s Profound Essence of Vimala
+      base_file: f8DCA.txt
+      order: 141
+      parent: Lineage Prayers
+    f766C:
+      title: Prayer to the Lineage of the Supreme Hayagrīva Emanation from the Aural
+        Transmission
+      base_file: f766C.txt
+      order: 142
+      parent: Lineage Prayers
+    f9EFF:
+      title: Siṃhamukhā Lineage Prayer
+      base_file: f9EFF.txt
+      order: 143
+      parent: Lineage Prayers
+    fE8E0:
+      title: Supplement to the Lineage Prayer for the Lamdré Instructions Composed
+        by Tsarchen
+      base_file: fE8E0.txt
+      order: 144
+      parent: Lineage Prayers
+    f8438:
+      title: Supplement to the Longchen Nyingtik Lineage Prayer
+      base_file: f8438.txt
+      order: 145
+      parent: Lineage Prayers
+    fE432:
+      title: 'The Beautiful Garland of Lotuses: A Prayer to the Lineage of the Rediscovered
+        Treasure, Five-Deity Subjugative Hayagrīva'
+      base_file: fE432.txt
+      order: 146
+      parent: Lineage Prayers
+    f9C8C:
+      title: 'The Bestowal of Supreme Immortality: A Prayer to the Lineage of Mitrayogin’s
+        White and Red Amitāyus'
+      base_file: f9C8C.txt
+      order: 147
+      parent: Lineage Prayers
+    f8F1D:
+      title: 'The Concentration of Blessings: Red Tārā Lineage Prayer'
+      base_file: f8F1D.txt
+      order: 148
+      parent: Lineage Prayers
+    f9D34:
+      title: A Prayer for the Long Life of Ngawang Kunga Tekchen Palbar Trinlé Wangi
+        Gyalpo, the Lord of Refuge and Precious Holder of the Throne of the Drolma
+        Palace at Glorious Sakya
+      base_file: f9D34.txt
+      order: 149
+      parent: Long Life Prayers
+    fB6C4:
+      title: Long-Life Prayer Presented to the Incarnation of Shukseb Jetsünma
+      base_file: fB6C4.txt
+      order: 150
+      parent: Long Life Prayers
+    f3042:
+      title: 'Padma’s Melodious Song: A Prayer for the Long Life of the Fourth in
+        the Succession of Lotus-Tongued Jamchen Tai Situ Incarnations'
+      base_file: f3042.txt
+      order: 151
+      parent: Long Life Prayers
+    fD569:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: fD569.txt
+      order: 152
+      parent: Long Life Prayers
+    f6717:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f6717.txt
+      order: 153
+      parent: Long Life Prayers
+    f818D:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö and Khandro
+        Tsering Chödrön
+      base_file: f818D.txt
+      order: 154
+      parent: Long Life Prayers
+    fBB1E:
+      title: Prayer for the Long Life of Khandro Tsering Chödrön
+      base_file: fBB1E.txt
+      order: 155
+      parent: Long Life Prayers
+    f9664:
+      title: Prayer for the Long Life of the Glorious Sakyapa Father and Son
+      base_file: f9664.txt
+      order: 156
+      parent: Long Life Prayers
+    f9D85:
+      title: Prayer for the Long Life of the Sixteenth Karmapa
+      base_file: f9D85.txt
+      order: 157
+      parent: Long Life Prayers
+    f466F:
+      title: 'Sweet Song of Enduring Deathlessness: A Prayer for the Long Life of
+        Jamyang Khyentse Chökyi Lodrö'
+      base_file: f466F.txt
+      order: 158
+      parent: Long Life Prayers
+    f7435:
+      title: 'The Drum of Deathlessness: A Prayer for the Long Life of Minling Chung
+        Rinpoche'
+      base_file: f7435.txt
+      order: 159
+      parent: Long Life Prayers
+    f2CFD:
+      title: 'The Drumbeat of Immortality: A Prayer for the Long Life of the Great
+        Tertön Dudjom Jigdral Yeshe Dorje'
+      base_file: f2CFD.txt
+      order: 160
+      parent: Long Life Prayers
+    f07E7:
+      title: 'The Flower of Auspiciousness: A Prayer for the Long Life of Khenpo Khyenrab
+        Chökyi Özer, Masterful Expositor of Scripture and Reasoning'
+      base_file: f07E7.txt
+      order: 161
+      parent: Long Life Prayers
+    f6379:
+      title: 'The Magical Wish-Fulfilling Tree: A Prayer for the Long Life of His
+        Holiness the Dalai Lama'
+      base_file: f6379.txt
+      order: 162
+      parent: Long Life Prayers
+    f4D30:
+      title: 'The Melody of The Nectar of Immortality: A Prayer for the Long Life
+        of His Holiness the Fourteenth Dalai Lama, Supreme Victor and Omniscient One
+        by Jamyang Khyentse Chökyi Lodrö'
+      base_file: f4D30.txt
+      order: 163
+      parent: Long Life Prayers
+    fEAF7:
+      title: 'The Music of Immortality: A Prayer for the Long Life of His Holiness
+        the Dalai Lama'
+      base_file: fEAF7.txt
+      order: 164
+      parent: Long Life Prayers
+    fEDEB:
+      title: 'The Sound of the Auspicious Conch: A Prayer for the Long Life of the
+        All-Knowing Paṇchen Rinpoche of Tsang'
+      base_file: fEDEB.txt
+      order: 165
+      parent: Long Life Prayers
+    f7E37:
+      title: 'The Sweet Melody to Accomplish Words of Truth: A Prayer for the Long
+        Life of the Dharma-Expounding Guide Khenchen Khyenrab Chökyi Özer'
+      base_file: f7E37.txt
+      order: 166
+      parent: Long Life Prayers
+    f3C2D:
+      title: 'The Sweet Song of Māra''s Defeat: A Prayer for the Long Life of the
+        Great Tertön and Vidyādhara Lerab Lingpa'
+      base_file: f3C2D.txt
+      order: 167
+      parent: Long Life Prayers
+    f5B24:
+      title: Extemporary Practice of Longevity for Oneself or Others
+      base_file: f5B24.txt
+      order: 168
+      parent: Longevity
+    f5456:
+      title: Notes on the Seven Points of Mind Training
+      base_file: f5456.txt
+      order: 169
+      parent: Mind Training
+    f868D:
+      title: The Eightfold Nature of Profundity from the Abhisamayālaṃkāra
+      base_file: f868D.txt
+      order: 170
+      parent: Notes
+    fFCC3:
+      title: Offering to the Nāgas of Gangtok
+      base_file: fFCC3.txt
+      order: 171
+      parent: Offerings
+    fC97C:
+      title: 'The Torch of Wisdom: A Method of Offering Butter Lamps Based on Ārya
+        Mañjuśrī'
+      base_file: fC97C.txt
+      order: 172
+      parent: Offerings
+    f0EEB:
+      title: A Prayer to the Stūpa of Jarung Khashor in Boudha
+      base_file: f0EEB.txt
+      order: 173
+      parent: Pilgrimage
+    f000C:
+      title: A Prayer to the Svayambhū Stūpa in Nepal
+      base_file: f000C.txt
+      order: 174
+      parent: Pilgrimage
+    f3A0C:
+      title: A Prayer to the Three Stūpas of Nepal
+      base_file: f3A0C.txt
+      order: 175
+      parent: Pilgrimage
+    f2055:
+      title: A Short Guide to Yangleshö in Nepal
+      base_file: f2055.txt
+      order: 176
+      parent: Pilgrimage
+    fB963:
+      title: 'A Song of Perfect Joy: In Praise of the Sacred Sites of Rājgṛha, Vulture
+        Peak and Nālandā'
+      base_file: fB963.txt
+      order: 177
+      parent: Pilgrimage
+    fED89:
+      title: 'Gathering Auspiciousness: A Prayer of Aspiration Made in the Presence
+        of the Sacred Mahābodhi Temple and its Imagery, Magadha, Land of the Āryas'
+      base_file: fED89.txt
+      order: 178
+      parent: Pilgrimage
+    f9FB2:
+      title: Guide to Sengchen Namdrak
+      base_file: f9FB2.txt
+      order: 179
+      parent: Pilgrimage
+    f2762:
+      title: Guide to the Valley of Joy, Sikkim
+      base_file: f2762.txt
+      order: 180
+      parent: Pilgrimage
+    fC1D0:
+      title: In Praise of Devāvatāra, Site of Buddha's Descent from Heaven
+      base_file: fC1D0.txt
+      order: 181
+      parent: Pilgrimage
+    f5994:
+      title: In Praise of Kuśinagara
+      base_file: f5994.txt
+      order: 182
+      parent: Pilgrimage
+    f924F:
+      title: In Praise of Vārāṇasī, the Supreme Place
+      base_file: f924F.txt
+      order: 183
+      parent: Pilgrimage
+    f9F9D:
+      title: In Praise of Yangleshö in Nepal
+      base_file: f9F9D.txt
+      order: 184
+      parent: Pilgrimage
+    fB650:
+      title: In Praise of the Great Indian City of Kolkata
+      base_file: fB650.txt
+      order: 185
+      parent: Pilgrimage
+    f11F8:
+      title: Offering Clouds to Delight the Victorious Ones, Combining A Praise of
+        Redreng with a Prayer of Aspiration
+      base_file: f11F8.txt
+      order: 186
+      parent: Pilgrimage
+    f32E9:
+      title: Praise and Prayer to Kharchu, Great Sacred Place of Lhodrak
+      base_file: f32E9.txt
+      order: 187
+      parent: Pilgrimage
+    f1075:
+      title: Prayer of Aspiration to the Stūpa Commemorating the Bodily Sacrifice
+        to the Tigress
+      base_file: f1075.txt
+      order: 188
+      parent: Pilgrimage
+    f5587:
+      title: 'The Conquerors'' Delight: In Praise of Śrāvastī'
+      base_file: f5587.txt
+      order: 189
+      parent: Pilgrimage
+    fAD04:
+      title: 'The White Lotus Garland of Immortality: In Praise of the Supreme Vajra
+        Place, Tso Pema (Lotus Lake)'
+      base_file: fAD04.txt
+      order: 190
+      parent: Pilgrimage
+    f28A8:
+      title: 'The White Lotus: In Praise of Lumbinī'
+      base_file: f28A8.txt
+      order: 191
+      parent: Pilgrimage
+    fF57E:
+      title: Brief Supplementary Text for Intensive Practice (Drupchö) of the Sublime
+        Lady of Immortality (Chimé Pakmé Nyingtik)
+      base_file: fF57E.txt
+      order: 192
+      parent: Practice Guides
+    f9C6F:
+      title: 'A Beautiful Lotus Garland: In Praise of the Omniscient Lord of Dharma
+        Butön Rinchen Drup'
+      base_file: f9C6F.txt
+      order: 193
+      parent: Praise
+    f0840:
+      title: 'A Blossoming of the Intellect: In Praise of the Great Pioneer Thönmi
+        Sambhoṭa'
+      base_file: f0840.txt
+      order: 194
+      parent: Praise
+    f498F:
+      title: A Song of Innermost Praise to Vajrasattva
+      base_file: f498F.txt
+      order: 195
+      parent: Praise
+    f19D1:
+      title: 'A Surge of Faith: Verses In Praise of Tārā'
+      base_file: f19D1.txt
+      order: 196
+      parent: Praise
+    f72B4:
+      title: 'Cloud Banks of Blessings: Praise and Prayer to the Vajradhara Ngawang
+        Lekpa'
+      base_file: f72B4.txt
+      order: 197
+      parent: Praise
+    fBC1A:
+      title: 'Cutting through the Four Demons in Absolute Space: A Praise of Machik
+        Labdrön'
+      base_file: fBC1A.txt
+      order: 198
+      parent: Praise
+    fDE77:
+      title: 'Flower of Faith: In Praise of Tāranātha, Lord of Secrets'
+      base_file: fDE77.txt
+      order: 199
+      parent: Praise
+    f095E:
+      title: 'Fully Blossomed Learning and Contemplation: A Praise of the Great Spiritual
+        Friend Jamyang Gyaltsen'
+      base_file: f095E.txt
+      order: 200
+      parent: Praise
+    f97DD:
+      title: In Praise of Jetsün Mila Shepa Dorje
+      base_file: f97DD.txt
+      order: 201
+      parent: Praise
+    f3404:
+      title: In Praise of Jigme Lingpa’s Pre-Eminence
+      base_file: f3404.txt
+      order: 202
+      parent: Praise
+    fBE48:
+      title: In Praise of the Lords of the Three Families
+      base_file: fBE48.txt
+      order: 203
+      parent: Praise
+    f8C64:
+      title: In Praise of the Meaning of the Main Mantras of the Peaceful and Wrathful
+        Deities
+      base_file: f8C64.txt
+      order: 204
+      parent: Praise
+    f9BBD:
+      title: 'Intensely Brilliant Wisdom: In Praise of the Great Elder Smṛtijñāna'
+      base_file: f9BBD.txt
+      order: 205
+      parent: Praise
+    fA725:
+      title: 'Introduction to the Buddha’s Words: A Praise and Aspiration Related
+        to the Words of the Victorious One'
+      base_file: fA725.txt
+      order: 206
+      parent: Praise
+    f25B0:
+      title: 'Offering the Flowers of Remembered Kindness: In Praise of the Gracious
+        Teacher, Khen Rinpoche Kunpal'
+      base_file: f25B0.txt
+      order: 207
+      parent: Praise
+    f8504:
+      title: Praise of Longchen Rabjam
+      base_file: f8504.txt
+      order: 208
+      parent: Praise
+    fA7EB:
+      title: Praise to Sakya Paṇḍita
+      base_file: fA7EB.txt
+      order: 209
+      parent: Praise
+    f1BE6:
+      title: 'Ripples on the Ganges: In Praise of the Goddess Sarasvatī'
+      base_file: f1BE6.txt
+      order: 210
+      parent: Praise
+    fA645:
+      title: 'Sweet Melody to Delight the Glorious Deity: In Praise of Śrī Kālīdevī'
+      base_file: fA645.txt
+      order: 211
+      parent: Praise
+    fCAC8:
+      title: 'The Bestowal of Supreme Blessings: Praise to the Vajradhara Loter Wangpo'
+      base_file: fCAC8.txt
+      order: 212
+      parent: Praise
+    f5BB5:
+      title: 'The Definitive Ascertainment of Tantra: In Praise of the Great Master
+        Milarepa'
+      base_file: f5BB5.txt
+      order: 213
+      parent: Praise
+    fCB04:
+      title: 'The Excellent Bilva Tree of Auspiciousness: Praise and Prayer to Terchen
+        Chokgyur Lingpa'
+      base_file: fCB04.txt
+      order: 214
+      parent: Praise
+    f643B:
+      title: 'The Flower of Faith: Praise to the Great Lord Guru Tsongkhapa'
+      base_file: f643B.txt
+      order: 215
+      parent: Praise
+    fE50E:
+      title: 'The Fresh Saffron Flower: In Praise of Venerable Mañjughoṣa'
+      base_file: fE50E.txt
+      order: 216
+      parent: Praise
+    f714F:
+      title: 'The Hero''s Bellowing Laughter: In Praise of the Lord of Yogins'
+      base_file: f714F.txt
+      order: 217
+      parent: Praise
+    f9184:
+      title: 'The Light of Wisdom: Praise to Mañjuśrī'
+      base_file: f9184.txt
+      order: 218
+      parent: Praise
+    fD928:
+      title: 'The Lute of Vajra Harmony: Praise to the Protector Mañjuśrī'
+      base_file: fD928.txt
+      order: 219
+      parent: Praise
+    fDC6F:
+      title: 'The Melodious Song of Joy: In Praise of the Master Candrakīrti'
+      base_file: fDC6F.txt
+      order: 220
+      parent: Praise
+    fBF65:
+      title: 'The Melodious Song of Vajra Harmony: In Praise of Red Sarasvatī'
+      base_file: fBF65.txt
+      order: 221
+      parent: Praise
+    f84E8:
+      title: 'The Purifier of Ethical Discipline: An Aspirational Praise to Vajradhara
+        Kunga Zangpo'
+      base_file: f84E8.txt
+      order: 222
+      parent: Praise
+    f0731:
+      title: 'The Sweet Sound of Perfect Joy: In Praise of the Goddess Sarasvatī'
+      base_file: f0731.txt
+      order: 223
+      parent: Praise
+    f5332:
+      title: 'The Swift Infusion of Blessings: In Praise of Mañjughoṣa'
+      base_file: f5332.txt
+      order: 224
+      parent: Praise
+    fF002:
+      title: 'The Swift Infusion of Blessings: In Praise of the Mahāpaṇḍita Candragomin'
+      base_file: fF002.txt
+      order: 225
+      parent: Praise
+    f622D:
+      title: 'Thunderous Melody: In Praise of the Omniscient Gorampa Sonam Senge'
+      base_file: f622D.txt
+      order: 226
+      parent: Praise
+    fF936:
+      title: 'Vast Clouds of Blessings: In Praise of the Omniscient Lord of Dharma'
+      base_file: fF936.txt
+      order: 227
+      parent: Praise
+    f155C:
+      title: 'Wish-Granting Provision of Twofold Accomplishment: A Praise of Vajrasattva'
+      base_file: f155C.txt
+      order: 228
+      parent: Praise
+    fA89D:
+      title: A Prayer to Lady Yeshe Tsogyal, the Mother
+      base_file: fA89D.txt
+      order: 229
+      parent: Prayers
+    f682D:
+      title: A Prayer to Shower Down the Rain of Wisdom
+      base_file: f682D.txt
+      order: 230
+      parent: Prayers
+    f864F:
+      title: A Supplication to Realize the Profound
+      base_file: f864F.txt
+      order: 231
+      parent: Prayers
+    fD2E6:
+      title: 'Averting Obstructive Circumstances: A Prayer to Tārā'
+      base_file: fD2E6.txt
+      order: 232
+      parent: Prayers
+    f7349:
+      title: 'Devotion that Pierces the Heart: A Prayer to the Omniscient Jigme Lingpa'
+      base_file: f7349.txt
+      order: 233
+      parent: Prayers
+    f2661:
+      title: 'Eliminator of Suffering: A Prayer to the Venerable and Exalted Tārā'
+      base_file: f2661.txt
+      order: 234
+      parent: Prayers
+    fD289:
+      title: 'Great Drum of the Devas: A Prayer to the Dharma King Tri Songdetsen'
+      base_file: fD289.txt
+      order: 235
+      parent: Prayers
+    f7D12:
+      title: 'Nectar of Lunar Crystal: A Prayer to Orgyen Chökyi Wangpo'
+      base_file: f7D12.txt
+      order: 236
+      parent: Prayers
+    fDA1B:
+      title: Prayer Composed for Yakzé Tsewang Gyurme
+      base_file: fDA1B.txt
+      order: 237
+      parent: Prayers
+    fEE3A:
+      title: Prayer Recalling the Life and Liberation of the Mañjunātha Guru
+      base_file: fEE3A.txt
+      order: 238
+      parent: Prayers
+    f30FE:
+      title: Prayer Written for Lama Chödrak
+      base_file: f30FE.txt
+      order: 239
+      parent: Prayers
+    f6558:
+      title: Prayer for the Dawning of Clear Light
+      base_file: f6558.txt
+      order: 240
+      parent: Prayers
+    f087B:
+      title: Prayer on the Occasion of the Reading Transmission for the Omniscient
+        King of Dharma's Thirteen-Volume Collected Writings
+      base_file: f087B.txt
+      order: 241
+      parent: Prayers
+    f24FB:
+      title: Prayer to Bhagavān Mañjughoṣa
+      base_file: f24FB.txt
+      order: 242
+      parent: Prayers
+    fB88B:
+      title: Prayer to Butön Rinpoche
+      base_file: fB88B.txt
+      order: 243
+      parent: Prayers
+    f191E:
+      title: Prayer to Gyarong Khandro Dechen Wangmo
+      base_file: f191E.txt
+      order: 244
+      parent: Prayers
+    f4D35:
+      title: Prayer to Jamyang Khyentse Chökyi Lodrö
+      base_file: f4D35.txt
+      order: 245
+      parent: Prayers
+    fB904:
+      title: Prayer to Jamyang Khyentse Chökyi Lodrö
+      base_file: fB904.txt
+      order: 246
+      parent: Prayers
+    fD732:
+      title: Prayer to Jamyang Khyentse Wangpo and Jamyang Khyentse Chökyi Lodrö
+      base_file: fD732.txt
+      order: 247
+      parent: Prayers
+    f93D6:
+      title: Prayer to Jamyang Khyentse Wangpo, Jamgön Kongtrul and Jamyang Khyentse
+        Chökyi Lodrö
+      base_file: f93D6.txt
+      order: 248
+      parent: Prayers
+    f6594:
+      title: Prayer to Karma Palden Khyentse
+      base_file: f6594.txt
+      order: 249
+      parent: Prayers
+    f7473:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: f7473.txt
+      order: 250
+      parent: Prayers
+    f9573:
+      title: Prayer to Khenpo Ngawang Palzang
+      base_file: f9573.txt
+      order: 251
+      parent: Prayers
+    fEBC3:
+      title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+      base_file: fEBC3.txt
+      order: 252
+      parent: Prayers
+    f3F94:
+      title: Prayer to Lord Marpa, Consort and Heirs
+      base_file: f3F94.txt
+      order: 253
+      parent: Prayers
+    f2EB3:
+      title: Prayer to My Root Guru, Jamyang Loter Wangpo
+      base_file: f2EB3.txt
+      order: 254
+      parent: Prayers
+    fEB21:
+      title: Prayer to Noble White Tārā
+      base_file: fEB21.txt
+      order: 255
+      parent: Prayers
+    f5DC7:
+      title: Prayer to Reverend and Noble Tārā
+      base_file: f5DC7.txt
+      order: 256
+      parent: Prayers
+    f2AE0:
+      title: Prayer to Sé Pakchok Dorje
+      base_file: f2AE0.txt
+      order: 257
+      parent: Prayers
+    fDD4F:
+      title: Prayer to Tsarchen Losal Gyatso
+      base_file: fDD4F.txt
+      order: 258
+      parent: Prayers
+    f6616:
+      title: Prayer to Yeshe Tsogyal
+      base_file: f6616.txt
+      order: 259
+      parent: Prayers
+    f4E52:
+      title: Prayer to the Great Paṇḍita Vimalamitra
+      base_file: f4E52.txt
+      order: 260
+      parent: Prayers
+    f81CA:
+      title: Prayer to the Kagyü Masters
+      base_file: f81CA.txt
+      order: 261
+      parent: Prayers
+    f6F42:
+      title: Prayer to the Supreme Deities
+      base_file: f6F42.txt
+      order: 262
+      parent: Prayers
+    fB76B:
+      title: Prayer to the Supremely Learned Holders of the Glorious Sakya Teachings
+      base_file: fB76B.txt
+      order: 263
+      parent: Prayers
+    f4CDF:
+      title: Regularly Recitable Prayer to the Root Guru, Loter Wangpo
+      base_file: f4CDF.txt
+      order: 264
+      parent: Prayers
+    f4E60:
+      title: Short Prayer to Atiśa
+      base_file: f4E60.txt
+      order: 265
+      parent: Prayers
+    fE0B6:
+      title: 'Song of Devotion: A Prayer to Lord Marpa Lotsāwa'
+      base_file: fE0B6.txt
+      order: 266
+      parent: Prayers
+    f5F29:
+      title: 'The Ambrosia of Blessings: A Prayer to the Vidyādhara of Unparalleled
+        Kindness, Drodül Pawo Dorje'
+      base_file: f5F29.txt
+      order: 267
+      parent: Prayers
+    f4A46:
+      title: 'The Beautiful Garland of Uḍumbara Flowers: A Prayer to the Previous
+        Incarnations of Jamyang Khyentse Chökyi Lodrö'
+      base_file: f4A46.txt
+      order: 268
+      parent: Prayers
+    f1203:
+      title: 'The Fresh Utpala: A Prayer to the Great Learned Teacher and Vajra-Holder
+        Jamyang Khyenrab Tayé'
+      base_file: f1203.txt
+      order: 269
+      parent: Prayers
+    f4513:
+      title: 'The Fulfilment of Wishes and Aspirations: A Prayer to Ācārya Padmasambhava'
+      base_file: f4513.txt
+      order: 270
+      parent: Prayers
+    f9133:
+      title: 'The Honey of Devotion: A Prayer to the Garland of Glorious Karmapa Incarnations'
+      base_file: f9133.txt
+      order: 271
+      parent: Prayers
+    fFB8D:
+      title: 'The Liberating Guide: A Prayer to Gyalwa Yangönpa'
+      base_file: fFB8D.txt
+      order: 272
+      parent: Prayers
+    f4272:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      base_file: f4272.txt
+      order: 273
+      parent: Prayers
+    fD384:
+      title: 'The Moon’s Illusory Reflection to Gladden the Devoted: A Prayer to the
+        Successive Rebirths'
+      base_file: fD384.txt
+      order: 274
+      parent: Prayers
+    f0568:
+      title: 'The Quintessence of Marvellous Nectar: A Prayer Based on the Liberational
+        Life of the Gentle Protector Guru'
+      base_file: f0568.txt
+      order: 275
+      parent: Prayers
+    f9960:
+      title: 'The Revelling Ocean of Blessings: A Prayer to Tsarchen Dorje Chang'
+      base_file: f9960.txt
+      order: 276
+      parent: Prayers
+    f6828:
+      title: 'The Swift Bestowal of Blessings: A Prayer to the Glorious Protector
+        Guru'
+      base_file: f6828.txt
+      order: 277
+      parent: Prayers
+    f4D99:
+      title: 'The Swift Infusion of Blessings: A Lament and Prayer to Invoke the Wisdom
+        Mind of Khenchen Vāgindra on the Occasion of His Passing into the Great Peace
+        of the Dharmadhātu'
+      base_file: f4D99.txt
+      order: 278
+      parent: Prayers
+    f966A:
+      title: 'The Tamboura of Devotion: A Prayer to Götsang Gönpo Dorje'
+      base_file: f966A.txt
+      order: 279
+      parent: Prayers
+    f452F:
+      title: 'The Treasure of Wisdom Illumination: A Prayer to the Omniscient Sun
+        of the Teachings Sonam Senge'
+      base_file: f452F.txt
+      order: 280
+      parent: Prayers
+    fB8C9:
+      title: 'The Treasury of Blessings: A Prayer to Recall the Sublime Masters who
+        Showed Great Kindness to the Land of Snows'
+      base_file: fB8C9.txt
+      order: 281
+      parent: Prayers
+    f7DCF:
+      title: 'The Tree of Awakening: A Prayer to the Great Abbot Śāntarakṣita'
+      base_file: f7DCF.txt
+      order: 282
+      parent: Prayers
+    f4F2B:
+      title: 'Waves in A Sea of Devotion: A Prayer to the Garland of Zurmang Trungpa
+        Rinpoche Incarnations'
+      base_file: f4F2B.txt
+      order: 283
+      parent: Prayers
+    f0B18:
+      title: 'The Clarifying Light: A Prophecy of the Future'
+      base_file: f0B18.txt
+      order: 284
+      parent: Prophecy
+    fAA86:
+      title: How to Recite the Dhāraṇīsūtra of Amitāyus
+      base_file: fAA86.txt
+      order: 285
+      parent: Recitation Guides
+    f6667:
+      title: A Brief Visualization and Recitation of the Great Mother Prajñāpāramitā
+      base_file: f6667.txt
+      order: 286
+      parent: Sādhanas
+    f9F4E:
+      title: A Means to Pacify the Fear of Natural Disasters
+      base_file: f9F4E.txt
+      order: 287
+      parent: Sādhanas
+    f0A09:
+      title: A Sādhana of Mārīcī
+      base_file: f0A09.txt
+      order: 288
+      parent: Sādhanas
+    fD414:
+      title: Brief Vajrasattva Visualisation and Mantra Recitation
+      base_file: fD414.txt
+      order: 289
+      parent: Sādhanas
+    fE710:
+      title: Concise White Tārā Sādhana
+      base_file: fE710.txt
+      order: 290
+      parent: Sādhanas
+    fAA40:
+      title: Daily Practice of Guru Drakpo
+      base_file: fAA40.txt
+      order: 291
+      parent: Sādhanas
+    fF2E2:
+      title: Daily Practice of Hayagrīva
+      base_file: fF2E2.txt
+      order: 292
+      parent: Sādhanas
+    f295E:
+      title: Daily Practice of Kagyé
+      base_file: f295E.txt
+      order: 293
+      parent: Sādhanas
+    f6BBE:
+      title: Daily Practice of Mañjuśrī Yamāntaka
+      base_file: f6BBE.txt
+      order: 294
+      parent: Sādhanas
+    fA74B:
+      title: Daily Practice of Vajrakīla
+      base_file: fA74B.txt
+      order: 295
+      parent: Sādhanas
+    f36D3:
+      title: Extremely Secret Unelaborate Daily Sādhana for the Heart Practice of
+        the Great Demon-Slayer
+      base_file: f36D3.txt
+      order: 296
+      parent: Sādhanas
+    fA900:
+      title: Increasing Intelligence – Sealed with Profundity
+      base_file: fA900.txt
+      order: 297
+      parent: Sādhanas
+    fB387:
+      title: 'Swift Enchantment of the Three Realms: A Sādhana of Red Tārā'
+      base_file: fB387.txt
+      order: 298
+      parent: Sādhanas
+    fC4EF:
+      title: 'The Accomplishment of Supreme Enlightened Activity: A Recitation Manual
+        for The Vajrakīla Root Tantra Section'
+      base_file: fC4EF.txt
+      order: 299
+      parent: Sādhanas
+    f2A00:
+      title: Sang Offering to Yellow Jambhala
+      base_file: f2A00.txt
+      order: 300
+      parent: Sang Offering
+    fA675:
+      title: A Lamenting Plea for Compassion
+      base_file: fA675.txt
+      order: 301
+      parent: Songs
+    f34E6:
+      title: A Song Recalling the Noble Guru’s Kindness
+      base_file: f34E6.txt
+      order: 302
+      parent: Songs
+    fFA70:
+      title: A Song Requested by the Buddhist Monk Jamyang Yönten Gyatso
+      base_file: fFA70.txt
+      order: 303
+      parent: Songs
+    f3383:
+      title: A Song for Travelling from Sikkim to Tibet
+      base_file: f3383.txt
+      order: 304
+      parent: Songs
+    f3FC1:
+      title: A Song in Six Verses
+      base_file: f3FC1.txt
+      order: 305
+      parent: Songs
+    fBBA2:
+      title: A Spontaneous Vajra Song
+      base_file: fBBA2.txt
+      order: 306
+      parent: Songs
+    f9A48:
+      title: Acrostic Song
+      base_file: f9A48.txt
+      order: 307
+      parent: Songs
+    fE5A1:
+      title: Advice to Myself Exposing Hidden Flaws
+      base_file: fE5A1.txt
+      order: 308
+      parent: Songs
+    fEED3:
+      title: 'Auspicious Dance of Longevity: A Song for Touring the Sacred Sites of
+        Nepal'
+      base_file: fEED3.txt
+      order: 309
+      parent: Songs
+    fA9A9:
+      title: 'Ḍākinī’s Delight: A Song of the Feast'
+      base_file: fA9A9.txt
+      order: 310
+      parent: Songs
+    fBC71:
+      title: Drawing Out the Quintessence of the View
+      base_file: fBC71.txt
+      order: 311
+      parent: Songs
+    f9C8B:
+      title: 'Great Stake to the Heart: A Song of Sadness'
+      base_file: f9C8B.txt
+      order: 312
+      parent: Songs
+    fAD00:
+      title: Lament Composed in a State of Deep Sadness
+      base_file: fAD00.txt
+      order: 313
+      parent: Songs
+    f81F4:
+      title: 'Lightning Band of Faith: A Song to Invoke the Master’s Wisdom Mind'
+      base_file: f81F4.txt
+      order: 314
+      parent: Songs
+    fCE8D:
+      title: 'Lightning Bands of Compassion: A Song of Lament for Khenchen Kunzang
+        Palden Tupten Chökyi Drakpa'
+      base_file: fCE8D.txt
+      order: 315
+      parent: Songs
+    fF1E4:
+      title: 'Piercing Devotion: A Lament for Lama Sakyapa'
+      base_file: fF1E4.txt
+      order: 316
+      parent: Songs
+    fE86E:
+      title: Song Composed for Jamyang Chöpel
+      base_file: fE86E.txt
+      order: 317
+      parent: Songs
+    fC183:
+      title: Song Composed for Venerable Jinpa
+      base_file: fC183.txt
+      order: 318
+      parent: Songs
+    f0A13:
+      title: Song of Deathlessness
+      base_file: f0A13.txt
+      order: 319
+      parent: Songs
+    fA8DB:
+      title: Song of Experiential Certainty
+      base_file: fA8DB.txt
+      order: 320
+      parent: Songs
+    f6CD9:
+      title: Song of Prayer to Milarepa
+      base_file: f6CD9.txt
+      order: 321
+      parent: Songs
+    fC422:
+      title: Song that Arose Spontaneously at Taktse Podrang, Sikkim
+      base_file: fC422.txt
+      order: 322
+      parent: Songs
+    f61DF:
+      title: Spontaneously Arisen Song of Intense Sadness
+      base_file: f61DF.txt
+      order: 323
+      parent: Songs
+    f4A29:
+      title: Spontaneously Written Song of Experience
+      base_file: f4A29.txt
+      order: 324
+      parent: Songs
+    f27D4:
+      title: 'The Cloud Messenger: A Song of Prayer to the Omniscient Guru'
+      base_file: f27D4.txt
+      order: 325
+      parent: Songs
+    f8E47:
+      title: 'The Excellent Path of Definitive Meaning: An Unmistaken Expression of
+        the Definitive Mahāmudrā'
+      base_file: f8E47.txt
+      order: 326
+      parent: Songs
+    f439A:
+      title: 'The Rain of Wisdom Blessings: A Song of Prayer to the Guru'
+      base_file: f439A.txt
+      order: 327
+      parent: Songs
+    f2114:
+      title: 'The Sweet Call of the Kalaviṅka: A Song Evoking the Omniscient King
+        of Dharma'
+      base_file: f2114.txt
+      order: 328
+      parent: Songs
+    fDC49:
+      title: 'Tremendous Piercing of the Heart: A Lament Recalling the Guru'
+      base_file: fDC49.txt
+      order: 329
+      parent: Songs
+    fDC26:
+      title: Upon Hearing the Fluted Speech of Kunzang Dechen Tsomo, Queen Mother
+        of Sikkim
+      base_file: fDC26.txt
+      order: 330
+      parent: Songs
+    f9665:
+      title: 'Waves of Devotion: A Song Recalling the Omniscient King of Dharma'
+      base_file: f9665.txt
+      order: 331
+      parent: Songs
+    fEDC9:
+      title: When Flowers Were Ravaged by the Frost
+      base_file: fEDC9.txt
+      order: 332
+      parent: Songs
+    f6AA2:
+      title: Brief Turning Back the Summons
+      base_file: f6AA2.txt
+      order: 333
+      parent: Sundok
+    f0007:
+      title: A Means of Offering Sur to the Damsi, Gyalgong and Others
+      base_file: f0007.txt
+      order: 334
+      parent: Sur Offering
+    f2A43:
+      title: Lamenting Prayer to Jamyang Chökyi Lodrö
+      base_file: f2A43.txt
+      order: 335
+      parent: Swift Rebirth Prayers
+    f388C:
+      title: Prayer for the Swift Rebirth of Jamyang Khyenrab Tayé
+      base_file: f388C.txt
+      order: 336
+      parent: Swift Rebirth Prayers
+    fACC4:
+      title: 'The Moonlight of Auspiciousness: A Yearning Prayer to the Noble and
+        Glorious Guru Combined with an Aspiration for His Swift Return'
+      base_file: fACC4.txt
+      order: 337
+      parent: Swift Rebirth Prayers
+    f66C9:
+      title: 'The Moonlight of Auspiciousness: Prayer for the Swift Return of the
+        Supreme Tulku'
+      base_file: f66C9.txt
+      order: 338
+      parent: Swift Rebirth Prayers
+    f463F:
+      title: 'The Swift Fulfilment of Wishes: A Prayer for the Swift Return of the
+        Supreme Tulku of the Fifth Drubwang Dzogchen Rinpoche'
+      base_file: f463F.txt
+      order: 339
+      parent: Swift Rebirth Prayers
+    f44C4:
+      title: 'The Swift Fulfilment of Wishes: Prayer for the Swift Appearance of the
+        Supreme Tulku of the Mañjughoṣa Guru'
+      base_file: f44C4.txt
+      order: 340
+      parent: Swift Rebirth Prayers
+    f8B68:
+      title: 'The Tambura of Devotion: A Prayer for the Swift Appearance of the Supreme
+        Tulku of the All-Seeing Conqueror and Cardinal Guardian of the Land of Snows'
+      base_file: f8B68.txt
+      order: 341
+      parent: Swift Rebirth Prayers
+    f400F:
+      title: 'Wondrous Light of the Moon: A Prayer for the Swift Appearance of the
+        Supreme Tulku of Vajradhara'
+      base_file: f400F.txt
+      order: 342
+      parent: Swift Rebirth Prayers
+    f31B2:
+      title: 'Bestowing the Glory of Wisdom: A Gaṇacakra Feast for Nyingtik Saldrön'
+      base_file: f31B2.txt
+      order: 343
+      parent: Tsok Offering
+    f2AA9:
+      title: Verses for Accumulating the Tsok Offering of the Combined Practice of
+        the Three Roots (Tsasum Drildrup)
+      base_file: f2AA9.txt
+      order: 344
+      parent: Tsok Offering
+    f516F:
+      title: A Section of the Vajrakīla Root Tantra
+      base_file: f516F.txt
+      order: 345
+      parent: Tantra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
